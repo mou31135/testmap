@@ -65,7 +65,7 @@ let places;
 let infoWindow;
 let markers = [];
 let autocomplete;
-const api_key = "AIzaSyCz5WpsaHxLqy1qFCo4fOPVj-kkVDfcxhU";
+const api_key = "Your API KEY";
 const countryRestrict = { country: "us" };
 const MARKER_PATH =
   "https://developers.google.com/maps/documentation/javascript/images/marker_green";
